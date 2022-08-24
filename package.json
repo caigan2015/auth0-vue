@@ -1,0 +1,27 @@
+{
+  "name": "auth-test",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.20.1",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "@vue/compiler-sfc": "^3.2.31",
+    "css-loader": "^6.7.1",
+    "node-sass": "^7.0.1",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "stylus-loader": "^6.2.0",
+    "vite": "^2.8.0"
+  }
+}

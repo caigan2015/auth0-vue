@@ -1,0 +1,6 @@
+{
+    "domain": "dev-w17xn7ov.jp.auth0.com",
+    "client_id": "3BnseCRxs9xKUkvSl0YWNcyCf7mrjdDu",
+    "redirect_uri": "http://localhost:3000/callback",
+    "audience": "https://dev-w17xn7ov.jp.auth0.com/api/v2/"
+  }
